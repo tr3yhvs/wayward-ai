@@ -1,0 +1,8 @@
+﻿supported_languages:
+  - code: en
+    name: English
+  - code: es
+    name: Spanish
+  - code: ru
+    name: Russian
+default_language: en

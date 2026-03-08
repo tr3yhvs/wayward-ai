@@ -1,0 +1,7 @@
+﻿{
+  "stops": [
+    {"name": "Tbilisi Zero Waste Market", "lat": 41.6938, "lon": 44.8015, "type": "market", "region": "caucasus"},
+    {"name": "Yerevan Repair Cafe", "lat": 40.1872, "lon": 44.5152, "type": "repair", "region": "caucasus"},
+    {"name": "Almaty Eco Hub", "lat": 43.2220, "lon": 76.8512, "type": "hub", "region": "central_asia"}
+  ]
+}

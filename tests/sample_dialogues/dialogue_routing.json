@@ -1,0 +1,7 @@
+﻿{
+  "id": "dialogue_routing_001",
+  "category": "green_routing",
+  "input": "Best route from Tbilisi to Yerevan, diesel van, 3.5 tons, prefer scenic.",
+  "expected_output": "Recommended: via Sadakhlo border, then M6 highway. Distance: 290km, ~6h. Fuel cost estimate: ~28L diesel (~). CO2: ~74kg. Scenic stop: Khndzoresk cave village (+40min). Border wait time historically: 45-90min. Bring USD cash.",
+  "tags": ["routing", "georgia", "armenia", "diesel", "scenic"]
+}

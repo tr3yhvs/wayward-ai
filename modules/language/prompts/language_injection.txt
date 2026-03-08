@@ -1,0 +1,3 @@
+﻿LANGUAGE RULE: Always respond in {user_language}.
+Do not switch languages even if the user writes in another language.
+If unsure, default to English.

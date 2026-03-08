@@ -1,0 +1,7 @@
+﻿{
+  "id": "dialogue_loneliness_001",
+  "category": "loneliness_support",
+  "input": "Been driving alone for 3 weeks in Mongolia. Starting to feel really isolated.",
+  "expected_output": "That is a long stretch solo — completely normal to feel this way in remote areas. A few things that help other overlanders: journaling voice memos to send later, scheduled video calls when you hit signal, or apps like Slowly (pen pal letters). Would you like suggestions for your next resupply town where you might meet other travelers?",
+  "tags": ["loneliness", "mental_health", "solo", "mongolia"]
+}

@@ -1,0 +1,5 @@
+﻿name: wayward_ai
+display_name: Wayward AI
+version: 0.1.0
+description: Offline travel assistant for vanlife, RV, and overlanding travelers
+system_prompt_file: prompts/system_prompt.txt

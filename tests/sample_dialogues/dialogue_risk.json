@@ -1,0 +1,7 @@
+﻿{
+  "id": "dialogue_risk_001",
+  "category": "road_risk",
+  "input": "I am near Sary-Tash, Kyrgyzstan. Planning to cross to Tajikistan tomorrow.",
+  "expected_output": "Road conditions near Kyzyl-Art pass: heavy rain reported 2 days ago. Mud risk: HIGH. Recommend waiting 24h or taking alternate route via Osh. Border opens at 09:00, closes 17:00. Fuel: last station 80km back.",
+  "tags": ["risk", "border", "road", "kyrgyzstan", "tajikistan"]
+}

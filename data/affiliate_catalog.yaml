@@ -1,0 +1,21 @@
+﻿affiliates:
+  - name: iOverlander
+    type: campsite_db
+    tier: free
+    url: https://www.ioverlander.com
+  - name: Gaia GPS
+    type: maps
+    tier: premium
+    commission: 0.15
+  - name: Calm
+    type: wellness
+    tier: freemium
+    trigger: loneliness
+  - name: Headspace
+    type: mindfulness
+    tier: freemium
+    trigger: loneliness
+  - name: Workaway
+    type: community
+    tier: free
+    trigger: loneliness

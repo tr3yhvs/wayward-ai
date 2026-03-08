@@ -1,0 +1,7 @@
+﻿{
+  "id": "dialogue_repair_001",
+  "category": "diy_repair",
+  "input": "My solar panel stopped charging. No tools except a multimeter.",
+  "expected_output": "Check these in order: 1) Measure voltage at panel terminals (should be 18-22V in sun). 2) Check fuse in charge controller. 3) Inspect MC4 connectors for corrosion. Most common fix: clean MC4 contacts with dry cloth. No soldering needed.",
+  "tags": ["repair", "solar", "electrical", "diy"]
+}
